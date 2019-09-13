@@ -1,0 +1,13 @@
+.HouseCard {
+    height: 30vh;
+    width: 50vw;
+    background-color: #e6f4ec;
+    display: flex;
+    align-content: center;
+    border: 1px solid black;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+}

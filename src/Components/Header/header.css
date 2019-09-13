@@ -1,0 +1,13 @@
+.Header {
+    height: 7vw;
+    width: 100vw;
+    background-color: #509872;
+    display: flex;
+    align-content: center;
+
+}
+
+.h2 {
+    margin-left: 100px;
+
+}
