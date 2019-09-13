@@ -22,6 +22,6 @@ module.exports = {
         const {id} = req.params
 
         dbInstance.delete_house(id)
-        .then(() => res.sendStatus(200))
+        .then(houses => res.status(200).json(houses))
     }
 }
